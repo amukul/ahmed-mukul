@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Recumbent Bikelab",
-  "description": "Quick launch Traversy Media",
+  "description": "Recumbent Bikelab quick media",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
