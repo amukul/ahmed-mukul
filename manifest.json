@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "ENID DENTISTRY AND BRACES",
-  "description": "ENID DENTISTRY AND BRACES quick media",
+  "description": "ENID DENTISTRY AND BRACES providing all kinds of cosmatics and dentistry services",
   "version": "1.0.0",
   "icons": { "128": "icon_128.png" },
   "browser_action": {
