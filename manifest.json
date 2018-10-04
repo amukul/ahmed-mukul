@@ -1,7 +1,7 @@
 {
-    "name": "Getting Started Example",
+    "name": "ENID DENTISTRY AND BRACES",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "ENID DENTISTRY AND BRACES",
     "permissions": ["storage"],
     "background": {
       "scripts": ["background.js"],
